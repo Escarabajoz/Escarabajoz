@@ -14,7 +14,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Escarabajoz&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Discord Presence](https://lanyard.cnrad.dev/api/984475795743453195?idleMessage=Puff.Daddy&borderRadius=20px&showDisplayName=true&showActivities=true&theme=dark)](https://discord.com/users/984475795743453195)
+[![Discord Presence](https://lanyard.cnrad.dev/api/984475795743453195?theme=dark&borderRadius=20px&showDisplayName=true&showActivities=true&idleMessage=Puff.Daddy&animated=true&hideDecoration=false&hideBadges=false)](https://discord.com/users/984475795743453195)
 
 
 
