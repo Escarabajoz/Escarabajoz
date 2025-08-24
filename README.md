@@ -14,7 +14,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Escarabajoz&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Discord Presence](https://lanyard.cnrad.dev/api/984475795743453195?idleMessage=Puff.Daddy&borderRadius=20px&showDisplayName=true&showActivities=true&theme=dark)](https://discord.com/users/984475795743453195)
+**Servidor:** ![Discord Server](https://img.shields.io/discord/1270853942749954181?label=Servidor&logo=discord&style=for-the-badge)  
+**Mi estado:** [![Discord Presence](https://lanyard.cnrad.dev/api/984475795743453195?idleMessage=Puff.Daddy&borderRadius=20px&showDisplayName=true&showActivities=true&theme=dark)](https://discord.com/users/984475795743453195)
 
 
 
