@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Escarabajoz&icon=0&color=0)](https://visitcount.itsvg.in)
+![Discord](https://img.shields.io/discord/1270853942749954181?label=Discord&logo=discord&logoColor=white&color=5865F2&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
