@@ -333,50 +333,12 @@ A VS Code extension for creating customizable code snapshots with support for PN
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Escarabajoz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escarabajoz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    height="180"
-  />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Escarabajoz&theme=dark&hide_border=true&background=0D1117"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Escarabajoz&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Escarabajoz&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity"
   />
 </p>
 
